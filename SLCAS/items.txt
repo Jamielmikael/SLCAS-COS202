@@ -1,0 +1,1 @@
+BOOK,ITEM-001,Harry Potter,J.K Rowling,1997,Fantasy,true
