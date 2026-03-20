@@ -1,1 +1,50 @@
-BOOK,ITEM-001,Harry Potter,J.K Rowling,1997,Fantasy,true
+BOOK,ITEM-001,Harry Potter and the Philosopher's Stone,J.K Rowling,1997,Fantasy,true
+BOOK,ITEM-002,To Kill a Mockingbird,Harper Lee,1960,Fiction,true
+BOOK,ITEM-003,1984,George Orwell,1949,Dystopian,false
+BOOK,ITEM-004,Pride and Prejudice,Jane Austen,1813,Romance,true
+BOOK,ITEM-005,The Great Gatsby,F. Scott Fitzgerald,1925,Fiction,true
+BOOK,ITEM-006,The Catcher in the Rye,J.D. Salinger,1951,Fiction,false
+BOOK,ITEM-007,The Hobbit,J.R.R. Tolkien,1937,Fantasy,true
+BOOK,ITEM-008,The Lord of the Rings,J.R.R. Tolkien,1954,Fantasy,true
+BOOK,ITEM-009,Animal Farm,George Orwell,1945,Political Fiction,true
+BOOK,ITEM-010,Brave New World,Aldous Huxley,1932,Science Fiction,true
+BOOK,ITEM-011,The Chronicles of Narnia,C.S. Lewis,1950,Fantasy,true
+BOOK,ITEM-012,Jane Eyre,Charlotte Brontë,1847,Gothic Fiction,true
+BOOK,ITEM-013,Wuthering Heights,Emily Brontë,1847,Gothic Fiction,false
+BOOK,ITEM-014,The Hunger Games,Suzanne Collins,2008,Dystopian,true
+BOOK,ITEM-015,The Da Vinci Code,Dan Brown,2003,Thriller,false
+BOOK,ITEM-016,The Alchemist,Paulo Coelho,1988,Fiction,true
+BOOK,ITEM-017,The Book Thief,Markus Zusak,2005,Historical Fiction,true
+BOOK,ITEM-018,Life of Pi,Yann Martel,2001,Adventure,true
+BOOK,ITEM-019,The Kite Runner,Khaled Hosseini,2003,Drama,false
+BOOK,ITEM-020,Gone Girl,Gillian Flynn,2012,Thriller,true
+MAGAZINE,ITEM-021,National Geographic,National Geographic Society,2024,125,true
+MAGAZINE,ITEM-022,Time Magazine,Time USA LLC,2024,15,true
+MAGAZINE,ITEM-023,The New Yorker,Condé Nast,2024,8,false
+MAGAZINE,ITEM-024,Scientific American,Springer Nature,2024,342,true
+MAGAZINE,ITEM-025,Wired,Condé Nast,2024,225,true
+MAGAZINE,ITEM-026,The Economist,The Economist Group,2024,52,false
+MAGAZINE,ITEM-027,Forbes,Forbes Media,2024,18,true
+MAGAZINE,ITEM-028,Rolling Stone,Penske Media,2024,1392,true
+MAGAZINE,ITEM-029,Vogue,Condé Nast,2024,428,true
+MAGAZINE,ITEM-030,Popular Science,Recurrent Ventures,2024,198,true
+JOURNAL,ITEM-031,Nature,Springer Nature,2024,625,625,true
+JOURNAL,ITEM-032,Science,AAAS,2024,378,378,true
+JOURNAL,ITEM-033,The Lancet,Elsevier,2024,402,402,false
+JOURNAL,ITEM-034,Cell,Cell Press,2024,186,186,true
+JOURNAL,ITEM-035,JAMA,AMA,2024,329,329,true
+JOURNAL,ITEM-036,The New England Journal of Medicine,NEJM Group,2024,390,390,false
+JOURNAL,ITEM-037,Proceedings of the National Academy of Sciences,PNAS,2024,121,121,true
+JOURNAL,ITEM-038,Nature Genetics,Springer Nature,2024,56,56,true
+JOURNAL,ITEM-039,Journal of Biological Chemistry,ASBMB,2024,300,300,true
+JOURNAL,ITEM-040,Physical Review Letters,APS,2024,132,132,true
+BOOK,ITEM-041,Atomic Habits,James Clear,2018,Self-Help,true
+BOOK,ITEM-042,Sapiens,Yuval Noah Harari,2011,Non-Fiction,true
+BOOK,ITEM-043,Educated,Tara Westover,2018,Memoir,false
+BOOK,ITEM-044,Becoming,Michelle Obama,2018,Biography,true
+BOOK,ITEM-045,The Subtle Art of Not Giving a F*ck,Mark Manson,2016,Self-Help,true
+BOOK,ITEM-046,Where the Crawdads Sing,Delia Owens,2018,Mystery,false
+BOOK,ITEM-047,The Silent Patient,Alex Michaelides,2019,Thriller,true
+BOOK,ITEM-048,Circe,Madeline Miller,2018,Fantasy,true
+BOOK,ITEM-049,Project Hail Mary,Andy Weir,2021,Science Fiction,true
+BOOK,ITEM-050,The Midnight Library,Matt Haig,2020,Fiction,true
